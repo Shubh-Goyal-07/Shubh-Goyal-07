@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about deep learning.
 - 💞️ I’m looking to collaborate on projects related to machine learning.
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-Goyal-07)
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubh-Goyal-07)
 
 <!---
 Shubh-Goyal-07/Shubh-Goyal-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
