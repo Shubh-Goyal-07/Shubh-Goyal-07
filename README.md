@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=200&section=header&text=Shubh%20Goyal&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://img.shields.io/badge/-Shubh%20Goyal-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=06B6D4" height="60" alt="Shubh Goyal" />
 </div>
 
 <p align="center">
@@ -64,8 +64,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubh-Goyal-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh-Goyal-07&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=ffffff" />
 </div>
 
