@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/-Shubh%20Goyal-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=06B6D4" height="60" alt="Shubh Goyal" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=200&section=header&text=Shubh%20Goyal&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <p align="center">
