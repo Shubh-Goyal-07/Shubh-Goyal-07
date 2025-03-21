@@ -13,12 +13,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Machine+Learning+%26+Deep+Learning;PyTorch+%26+TensorFlow;React.js+%26+Node.js;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
-
-<br/>
-
 ## 💡 About Me
 
 - 🔭 Working on advanced AI research and full-stack applications
